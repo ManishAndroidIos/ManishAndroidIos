@@ -14,7 +14,7 @@
 <p align="center">
 
   
-  ## 👨‍💻 Skils
+  ## Skils 👨‍💻
 * 📱 Strong knowledge of Android SDK, different versions of Android, and how to deal with different screen sizes.
 * 📱 Familiarity with RESTful APIs to connect Android applications to back-end services
 * 📱 Strong knowledge of Android UI design principles, patterns, and best practices
