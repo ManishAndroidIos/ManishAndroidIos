@@ -12,14 +12,21 @@
 * 🌱 Always experimenting with bleading edge tech. 
 * ⛰️ Love exploring and going on hikes
 <p align="center">
+
   
-<!-- ## Latest Blog Posts <img src="https://c.tenor.com/lZE8tZGKLQ4AAAAi/saturn-v-space.gif" width="28"/>  -->
-<!-- BLOG-POST-LIST:START -->
-<!---
-- [Animated Splash Screen in Android with Compose.](https://proandroiddev.com/animated-splash-screen-in-android-with-compose-4b7dc1baecc5?source=rss-a958e8ec15c0------2)
-- [Classic Snake Game with Jetpack Compose.](https://proandroiddev.com/classic-snake-game-with-jetpack-compose-2b78f4892ca?source=rss-a958e8ec15c0------2)
-- [7 things to keep in mind while building jetpack composable’s.](https://proandroiddev.com/7-things-to-keep-in-mind-while-building-jetpack-composables-7e4a5ecaa8b0?source=rss-a958e8ec15c0------2)
-- [LiveData, Flow, StateFlow and SharedFlow?](https://themukeshsolanki.medium.com/livedata-flow-stateflow-and-sharedflow-f42eaad23431?source=rss-a958e8ec15c0------2)
-- [My Setup for Android Development](https://themukeshsolanki.medium.com/my-setup-for-android-development-70cf0603013e?source=rss-a958e8ec15c0------2)
--->
+  ## Skils <img src="https://c.tenor.com/uZFq07-ujK8AAAAi/man-shrugging-joypixels.gif" width="28"/>
+* 💻 Strong knowledge of Android SDK, different versions of Android, and how to deal with different screen sizes.
+* 💻 Familiarity with RESTful APIs to connect Android applications to back-end services
+* 💻 Strong knowledge of Android UI design principles, patterns, and best practices
+* 💻 Strong knowledge of Core JAVA, Advance JAVA and Design Patterns.
+* 💻  Experience with offline storage, threading, and performance tuning
+* 💻  Knowledge of the open-source Android ecosystem and the libraries available for common tasks
+* 💻  Ability to understand business requirements and translate them into technical requirements
+* 💻  Familiarity with cloud message APIs and push notifications
+* 💻  Understanding of Googles Android design principles and interface guidelines
+* 💻  Proficient understanding of code versioning tools, such as Git
+<p align="center">
+
+  
+
 
