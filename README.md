@@ -14,17 +14,17 @@
 <p align="center">
 
   
-  ## Skils <img src="https://c.tenor.com/uZFq07-ujK8AAAAi/man-shrugging-joypixels.gif" width="28"/>
-* 💻 Strong knowledge of Android SDK, different versions of Android, and how to deal with different screen sizes.
-* 💻 Familiarity with RESTful APIs to connect Android applications to back-end services
-* 💻 Strong knowledge of Android UI design principles, patterns, and best practices
-* 💻 Strong knowledge of Core JAVA, Advance JAVA and Design Patterns.
-* 💻  Experience with offline storage, threading, and performance tuning
-* 💻  Knowledge of the open-source Android ecosystem and the libraries available for common tasks
-* 💻  Ability to understand business requirements and translate them into technical requirements
-* 💻  Familiarity with cloud message APIs and push notifications
-* 💻  Understanding of Googles Android design principles and interface guidelines
-* 💻  Proficient understanding of code versioning tools, such as Git
+  ## 👨‍💻 Skils
+* 📱 Strong knowledge of Android SDK, different versions of Android, and how to deal with different screen sizes.
+* 📱 Familiarity with RESTful APIs to connect Android applications to back-end services
+* 📱 Strong knowledge of Android UI design principles, patterns, and best practices
+* 📱 Strong knowledge of Core JAVA, Advance JAVA and Design Patterns.
+* 📱  Experience with offline storage, threading, and performance tuning
+* 📱  Knowledge of the open-source Android ecosystem and the libraries available for common tasks
+* 📱  Ability to understand business requirements and translate them into technical requirements
+* 📱  Familiarity with cloud message APIs and push notifications
+* 📱  Understanding of Googles Android design principles and interface guidelines
+* 📱  Proficient understanding of code versioning tools, such as Git
 <p align="center">
 
   
