@@ -7,9 +7,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+meet+you!;I'm+a+Software+Engineer;Tech+Blogger)](https://git.io/typing-svg)
 
 ## About Me <img src="https://c.tenor.com/uZFq07-ujK8AAAAi/man-shrugging-joypixels.gif" width="28"/>
-* 💻 I'm currently working at <a href="http://ssup.co">Super Share</a> 
-* ⚡ Contribuing to a whole bunch of <a href="http://github.com/mukeshsolanki">opensource</a> projects.
-* 🖨️ I write tech articles almost every week on <a href="https://medium.com/@themukeshsolanki">Medium</a>. 
+* 💻 I'm currently working at <a href="https://www.encoding-solutions.com/">Encoding Solutions Pvt. Ltd.</a> 
+* ⚡ Contribuing to a whole bunch of <a href="https://github.com/ManishAndroidIos/manishahire.git">opensource</a> projects.
 * 🌱 Always experimenting with bleading edge tech. 
 * ⛰️ Love exploring and going on hikes
 <p align="center">
