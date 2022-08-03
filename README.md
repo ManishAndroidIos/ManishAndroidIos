@@ -12,18 +12,20 @@
 * 🌱 Always experimenting with bleading edge tech. 
 * ⛰️ Love exploring and going on hikes
 <p align="center">
-
-## Latest Blog Posts <img src="https://c.tenor.com/lZE8tZGKLQ4AAAAi/saturn-v-space.gif" width="28"/>
+  
+<!-- ## Latest Blog Posts <img src="https://c.tenor.com/lZE8tZGKLQ4AAAAi/saturn-v-space.gif" width="28"/>  -->
 <!-- BLOG-POST-LIST:START -->
+<!---
 - [Animated Splash Screen in Android with Compose.](https://proandroiddev.com/animated-splash-screen-in-android-with-compose-4b7dc1baecc5?source=rss-a958e8ec15c0------2)
 - [Classic Snake Game with Jetpack Compose.](https://proandroiddev.com/classic-snake-game-with-jetpack-compose-2b78f4892ca?source=rss-a958e8ec15c0------2)
 - [7 things to keep in mind while building jetpack composable’s.](https://proandroiddev.com/7-things-to-keep-in-mind-while-building-jetpack-composables-7e4a5ecaa8b0?source=rss-a958e8ec15c0------2)
 - [LiveData, Flow, StateFlow and SharedFlow?](https://themukeshsolanki.medium.com/livedata-flow-stateflow-and-sharedflow-f42eaad23431?source=rss-a958e8ec15c0------2)
 - [My Setup for Android Development](https://themukeshsolanki.medium.com/my-setup-for-android-development-70cf0603013e?source=rss-a958e8ec15c0------2)
-<!-- BLOG-POST-LIST:END -->
+-->
+  <!-- BLOG-POST-LIST:END -->
 
 ## Github Stats <img src="https://c.tenor.com/ZULdaf8iCHgAAAAi/100-discord.gif" width="28"/>
   
- <a href="https://github.com/mukeshsolanki/"><img alt="Mukesh Solanki's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mukeshsolanki&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/mukeshsolanki"><img alt="Mukesh Solanki's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshsolanki&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=javascript,html,scss" height="192px"/></a>
+ <a href="https://github.com/ManishAndroidIos/"><img alt="Manish Ahire's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mukeshsolanki&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/ManishAndroidIos/"><img alt="Mukesh Solanki's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshsolanki&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=javascript,html,scss" height="192px"/></a>
 </p>
