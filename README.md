@@ -8,7 +8,7 @@
 
 ## About Me <img src="https://c.tenor.com/uZFq07-ujK8AAAAi/man-shrugging-joypixels.gif" width="28"/>
 * 💻 I'm currently working at <a href="https://www.encoding-solutions.com/">Encoding Solutions Pvt. Ltd.</a> 
-* ⚡ Contribuing to a whole bunch of <a href="https://github.com/ManishAndroidIos/manishahire.git">opensource</a> projects.
+* ⚡ Contribuing to a whole bunch of <a href="https://github.com/ManishAndroidIos/Master-Google-Place-API.git">opensource</a> projects.
 * 🌱 Always experimenting with bleading edge tech. 
 * ⛰️ Love exploring and going on hikes
 <p align="center">
